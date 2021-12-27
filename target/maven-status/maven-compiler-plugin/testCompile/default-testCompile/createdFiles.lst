@@ -1,0 +1,4 @@
+com\amazon\testsuite\MobilePhoneTest.class
+com\amazon\testbase\TestBase.class
+com\amazon\testsuite\LaptopTest.class
+resources\testdata\TestData.class

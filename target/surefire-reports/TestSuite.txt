@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.606 s <<< FAILURE! - in TestSuite
+userShouldBeAbleToPurchaseLaptopSuccessfully(com.amazon.testsuite.LaptopTest)  Time elapsed: 0.419 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'search1' is required by @Test on method userShouldBeAbleToPurchaseLaptopSuccessfully but has not been marked @Optional or defined
+
+
+userShouldBeAbleToPurchaseMobilePhoneSuccessfully(com.amazon.testsuite.MobilePhoneTest)  Time elapsed: 0.426 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'search2' is required by @Test on method userShouldBeAbleToPurchaseMobilePhoneSuccessfully but has not been marked @Optional or defined
+
+
